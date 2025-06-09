@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Persebaran SMA Negeri Kota Yogyakarta</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="header">
+        <h1>🏫 Persebaran SMA Negeri Kota Yogyakarta</h1>
+        <p>Peta interaktif lokasi 11 Sekolah Menengah Atas Negeri di Kota Yogyakarta</p>
+    </div>
+    
+    <div class="container">
+        <div class="sidebar">
+            <h2>📋 Daftar SMA Negeri</h2>
+            <div class="school-list" id="schoolList">
+                <!-- School items will be dynamically generated -->
+            </div>
+        </div>
+        
+        <div class="map-container">
+            <div id="map"></div>
+            <div class="legend">
+                <h3>🗺️ Keterangan</h3>
+                <div class="legend-item">
+                    <div class="legend-icon"></div>
+                    <span>Lokasi SMA Negeri</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
