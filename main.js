@@ -6,7 +6,7 @@ const smaData = [
                 telepon: "(0274) 513454",
                 koordinat: [-7.799701,110.352524],
                 website: "https://www.sman1yogya.sch.id/id",
-                deskripsi: "SMA Negeri 1 Yogyakarta merupakan salah satu sekolah menengah atas negeri tertua dan terbaik di Yogyakarta. Dikenal dengan prestasi akademik yang gemilang dan berbagai kegiatan ekstrakurikuler yang aktif.",
+                deskripsi: "SMAN 1 Yogyakarta didirikan pada tahun 1930 dengan nama awal Algemeene Middelbaar School A Afdeling Yogyakarta (AMS A), dan pada 1957 menerima gelar “Teladan” melalui dekrit resmi Kemdikbud. Sekolah ini dikenal sebagai pusat unggulan Cambridge International hingga sekitar 2013 dan aktif menyelenggarakan program akselerasi serta kelas Cambridge sejak tahun 2004–2005. Sebagai catatan menarik, sejak 1982 SMAN 1 memiliki band ekskul bernama “Bhinneka Svara” yang telah meraih prestasi di tingkat provinsi, dan vokal Islami “Uswah Voice” juga kerap aktif dalam berbagai kompetisi .",
                 akreditasi: "A",
                 tahunBerdiri: "1947"
             },
@@ -28,7 +28,7 @@ const smaData = [
                 telepon: "(0274) 512856",
                 koordinat: [-7.786487,110.373626],
                 website: "https://sma3jogja.sch.id/",
-                deskripsi: "SMA Negeri 3 Yogyakarta atau dikenal dengan sebutan Padmanaba adalah sekolah dengan tradisi kepemimpinan yang kuat. Motto 'School of Leadership' menjadi ciri khasnya.",
+                deskripsi: "SMAN 3 Yogyakarta bermula dari AMS-B yang berdiri pada 1919, lalu resmi menjadi SMAN 3 pada tahun 1964. Julukan “Padmanaba” diambil dari nama organisasi siswa AMS-B dulu dan hingga kini melekat erat pada sekolah. Gedung utamanya dinyatakan sebagai cagar budaya sejak 2010 dan masih mempertahankan gaya arsitektur kolonial Belanda dengan jendela tinggi dan tiang bergaya Yunani. Pada masa Agresi Militer 1947–1948, beberapa siswanya suka rela menjadi Tentara Pelajar dan gugur dalam mempertahankan kemerdekaan. Tradisi ulang tahun sekolah selalu dirayakan setiap tanggal 19 September sebagai penghormatan terhadap sejarah perjuangan mereka .",
                 akreditasi: "A",
                 tahunBerdiri: "1955"
             },
